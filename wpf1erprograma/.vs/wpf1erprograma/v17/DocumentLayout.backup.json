@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|solutionrelative:wpf1erprograma\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|solutionrelative:wpf1erprograma\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|solutionrelative:wpf1erprograma\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\infrastructure\\nidaqdigitaloutputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|solutionrelative:wpf1erprograma\\infrastructure\\nidaqdigitaloutputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|solutionrelative:wpf1erprograma\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|solutionrelative:wpf1erprograma\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\domain\\idigitaloutputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|solutionrelative:wpf1erprograma\\domain\\idigitaloutputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|solutionrelative:wpf1erprograma\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|solutionrelative:wpf1erprograma\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|solutionrelative:wpf1erprograma\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|solutionrelative:wpf1erprograma\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|solutionrelative:wpf1erprograma\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\wpf1erprograma.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -56,24 +56,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\ViewModels\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "wpf1erprograma\\ViewModels\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\ViewModels\\MainViewModel.cs",
-              "RelativeToolTip": "wpf1erprograma\\ViewModels\\MainViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "wpf1erprograma\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "wpf1erprograma\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T18:12:30.01Z",
+              "WhenOpened": "2026-02-02T16:37:36.547Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\Views\\MainWindow.xaml",
               "RelativeDocumentMoniker": "wpf1erprograma\\Views\\MainWindow.xaml",
@@ -85,28 +85,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\Views\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "wpf1erprograma\\Views\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\Views\\MainWindow.xaml.cs",
-              "RelativeToolTip": "wpf1erprograma\\Views\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T16:37:36.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "NiDaqDigitalOutputService.cs",
               "DocumentMoniker": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\Infrastructure\\NiDaqDigitalOutputService.cs",
               "RelativeDocumentMoniker": "wpf1erprograma\\Infrastructure\\NiDaqDigitalOutputService.cs",
               "ToolTip": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\Infrastructure\\NiDaqDigitalOutputService.cs",
               "RelativeToolTip": "wpf1erprograma\\Infrastructure\\NiDaqDigitalOutputService.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-03T18:10:49.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "wpf1erprograma\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "wpf1erprograma\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T18:12:30.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDigitalOutputService.cs",
+              "DocumentMoniker": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\Domain\\IDigitalOutputService.cs",
+              "RelativeDocumentMoniker": "wpf1erprograma\\Domain\\IDigitalOutputService.cs",
+              "ToolTip": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\Domain\\IDigitalOutputService.cs",
+              "RelativeToolTip": "wpf1erprograma\\Domain\\IDigitalOutputService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T18:07:19.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\App.xaml.cs",
+              "RelativeDocumentMoniker": "wpf1erprograma\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\App.xaml.cs",
+              "RelativeToolTip": "wpf1erprograma\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T17:17:40.523Z",
               "EditorCaption": ""
             },
             {
@@ -117,25 +143,14 @@
               "RelativeDocumentMoniker": "wpf1erprograma\\AssemblyInfo.cs",
               "ToolTip": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\AssemblyInfo.cs",
               "RelativeToolTip": "wpf1erprograma\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T14:02:56.838Z"
+              "WhenOpened": "2026-02-03T14:02:56.838Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\App.xaml.cs",
-              "RelativeDocumentMoniker": "wpf1erprograma\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\App.xaml.cs",
-              "RelativeToolTip": "wpf1erprograma\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T17:17:40.523Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\App.xaml",
               "RelativeDocumentMoniker": "wpf1erprograma\\App.xaml",
@@ -144,18 +159,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-02-02T17:14:15.485Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IDigitalOutputService.cs",
-              "DocumentMoniker": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\Domain\\IDigitalOutputService.cs",
-              "RelativeDocumentMoniker": "wpf1erprograma\\Domain\\IDigitalOutputService.cs",
-              "ToolTip": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\Domain\\IDigitalOutputService.cs",
-              "RelativeToolTip": "wpf1erprograma\\Domain\\IDigitalOutputService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T18:07:19.568Z"
             },
             {
               "$type": "Document",

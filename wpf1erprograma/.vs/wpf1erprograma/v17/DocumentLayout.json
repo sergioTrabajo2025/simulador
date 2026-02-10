@@ -1,48 +1,48 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\",
+  "WorkspaceRootPath": "C:\\Users\\dell_trabajo\\Desktop\\simulador 2026\\wpf1erprograma\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|solutionrelative:wpf1erprograma\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\infrastructure\\nidaqdigitaloutputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|solutionrelative:wpf1erprograma\\infrastructure\\nidaqdigitaloutputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|solutionrelative:wpf1erprograma\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\domain\\idigitaloutputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|solutionrelative:wpf1erprograma\\domain\\idigitaloutputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|solutionrelative:wpf1erprograma\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|solutionrelative:wpf1erprograma\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|solutionrelative:wpf1erprograma\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\desktop\\simulador 2026\\wpf1erprograma\\wpf1erprograma\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|solutionrelative:wpf1erprograma\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\wpf1erprograma.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\desktop\\simulador 2026\\wpf1erprograma\\wpf1erprograma\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|solutionrelative:wpf1erprograma\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\desktop\\simulador 2026\\wpf1erprograma\\wpf1erprograma\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|solutionrelative:wpf1erprograma\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\desktop\\simulador 2026\\wpf1erprograma\\wpf1erprograma\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|solutionrelative:wpf1erprograma\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\desktop\\simulador 2026\\wpf1erprograma\\wpf1erprograma\\infrastructure\\nidaqdigitaloutputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|solutionrelative:wpf1erprograma\\infrastructure\\nidaqdigitaloutputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\desktop\\simulador 2026\\wpf1erprograma\\wpf1erprograma\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|solutionrelative:wpf1erprograma\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\desktop\\simulador 2026\\wpf1erprograma\\wpf1erprograma\\domain\\idigitaloutputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|solutionrelative:wpf1erprograma\\domain\\idigitaloutputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\desktop\\simulador 2026\\wpf1erprograma\\wpf1erprograma\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|solutionrelative:wpf1erprograma\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\desktop\\simulador 2026\\wpf1erprograma\\wpf1erprograma\\wpf1erprograma.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|solutionrelative:wpf1erprograma\\wpf1erprograma.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell_trabajo\\AppData\\Local\\Temp\\.vsdbgsrc\\ee5cecc93d553594bcdd27f7f78ec4c027d563536bb5d0f2c4359be1479d5362\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\wpf1erprograma.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|c:\\users\\dell_trabajo\\desktop\\simulador 2026\\wpf1erprograma\\wpf1erprograma\\wpf1erprograma.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{EFD605AA-999F-4652-82CF-9218128A9869}|wpf1erprograma\\wpf1erprograma.csproj|solutionrelative:wpf1erprograma\\wpf1erprograma.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
@@ -56,28 +56,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\Views\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "wpf1erprograma\\Views\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\Views\\MainWindow.xaml.cs",
-              "RelativeToolTip": "wpf1erprograma\\Views\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T16:37:36.547Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dell_trabajo\\Desktop\\simulador 2026\\wpf1erprograma\\wpf1erprograma\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "wpf1erprograma\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\dell_trabajo\\Desktop\\simulador 2026\\wpf1erprograma\\wpf1erprograma\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "wpf1erprograma\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T16:37:36.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\Views\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\dell_trabajo\\Desktop\\simulador 2026\\wpf1erprograma\\wpf1erprograma\\Views\\MainWindow.xaml",
               "RelativeDocumentMoniker": "wpf1erprograma\\Views\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\dell_trabajo\\Desktop\\simulador 2026\\wpf1erprograma\\wpf1erprograma\\Views\\MainWindow.xaml",
               "RelativeToolTip": "wpf1erprograma\\Views\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-02-04T18:20:00.025Z",
@@ -85,50 +88,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "NiDaqDigitalOutputService.cs",
-              "DocumentMoniker": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\Infrastructure\\NiDaqDigitalOutputService.cs",
+              "DocumentMoniker": "C:\\Users\\dell_trabajo\\Desktop\\simulador 2026\\wpf1erprograma\\wpf1erprograma\\Infrastructure\\NiDaqDigitalOutputService.cs",
               "RelativeDocumentMoniker": "wpf1erprograma\\Infrastructure\\NiDaqDigitalOutputService.cs",
-              "ToolTip": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\Infrastructure\\NiDaqDigitalOutputService.cs",
+              "ToolTip": "C:\\Users\\dell_trabajo\\Desktop\\simulador 2026\\wpf1erprograma\\wpf1erprograma\\Infrastructure\\NiDaqDigitalOutputService.cs",
               "RelativeToolTip": "wpf1erprograma\\Infrastructure\\NiDaqDigitalOutputService.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T18:10:49.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T18:10:49.648Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\ViewModels\\MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dell_trabajo\\Desktop\\simulador 2026\\wpf1erprograma\\wpf1erprograma\\ViewModels\\MainViewModel.cs",
               "RelativeDocumentMoniker": "wpf1erprograma\\ViewModels\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\dell_trabajo\\Desktop\\simulador 2026\\wpf1erprograma\\wpf1erprograma\\ViewModels\\MainViewModel.cs",
               "RelativeToolTip": "wpf1erprograma\\ViewModels\\MainViewModel.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T18:12:30.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T18:12:30.01Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "IDigitalOutputService.cs",
-              "DocumentMoniker": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\Domain\\IDigitalOutputService.cs",
+              "DocumentMoniker": "C:\\Users\\dell_trabajo\\Desktop\\simulador 2026\\wpf1erprograma\\wpf1erprograma\\Domain\\IDigitalOutputService.cs",
               "RelativeDocumentMoniker": "wpf1erprograma\\Domain\\IDigitalOutputService.cs",
-              "ToolTip": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\Domain\\IDigitalOutputService.cs",
+              "ToolTip": "C:\\Users\\dell_trabajo\\Desktop\\simulador 2026\\wpf1erprograma\\wpf1erprograma\\Domain\\IDigitalOutputService.cs",
               "RelativeToolTip": "wpf1erprograma\\Domain\\IDigitalOutputService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T18:07:19.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T18:07:19.568Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dell_trabajo\\Desktop\\simulador 2026\\wpf1erprograma\\wpf1erprograma\\App.xaml.cs",
               "RelativeDocumentMoniker": "wpf1erprograma\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\dell_trabajo\\Desktop\\simulador 2026\\wpf1erprograma\\wpf1erprograma\\App.xaml.cs",
               "RelativeToolTip": "wpf1erprograma\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -137,11 +137,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\dell_trabajo\\Desktop\\simulador 2026\\wpf1erprograma\\wpf1erprograma\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "wpf1erprograma\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\dell_trabajo\\Desktop\\simulador 2026\\wpf1erprograma\\wpf1erprograma\\AssemblyInfo.cs",
               "RelativeToolTip": "wpf1erprograma\\AssemblyInfo.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -150,11 +150,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\dell_trabajo\\Desktop\\simulador 2026\\wpf1erprograma\\wpf1erprograma\\App.xaml",
               "RelativeDocumentMoniker": "wpf1erprograma\\App.xaml",
-              "ToolTip": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\App.xaml",
+              "ToolTip": "C:\\Users\\dell_trabajo\\Desktop\\simulador 2026\\wpf1erprograma\\wpf1erprograma\\App.xaml",
               "RelativeToolTip": "wpf1erprograma\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-02-02T17:14:15.485Z",
@@ -164,9 +164,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "wpf1erprograma.csproj",
-              "DocumentMoniker": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\wpf1erprograma.csproj",
+              "DocumentMoniker": "C:\\Users\\dell_trabajo\\Desktop\\simulador 2026\\wpf1erprograma\\wpf1erprograma\\wpf1erprograma.csproj",
               "RelativeDocumentMoniker": "wpf1erprograma\\wpf1erprograma.csproj",
-              "ToolTip": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\wpf1erprograma.csproj",
+              "ToolTip": "C:\\Users\\dell_trabajo\\Desktop\\simulador 2026\\wpf1erprograma\\wpf1erprograma\\wpf1erprograma.csproj",
               "RelativeToolTip": "wpf1erprograma\\wpf1erprograma.csproj",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -188,9 +188,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "wpf1erprograma",
-              "DocumentMoniker": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\wpf1erprograma.csproj",
+              "DocumentMoniker": "C:\\Users\\dell_trabajo\\Desktop\\simulador 2026\\wpf1erprograma\\wpf1erprograma\\wpf1erprograma.csproj",
               "RelativeDocumentMoniker": "wpf1erprograma\\wpf1erprograma.csproj",
-              "ToolTip": "C:\\Users\\dell_trabajo\\source\\repos\\wpf1erprograma\\wpf1erprograma\\wpf1erprograma.csproj",
+              "ToolTip": "C:\\Users\\dell_trabajo\\Desktop\\simulador 2026\\wpf1erprograma\\wpf1erprograma\\wpf1erprograma.csproj",
               "RelativeToolTip": "wpf1erprograma\\wpf1erprograma.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-02-02T17:07:09.925Z"
@@ -206,10 +206,6 @@
               "ViewState": "AgIAABgAAAAAAAAAAAAswCcAAAAEAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-02T17:11:24.225Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         }
