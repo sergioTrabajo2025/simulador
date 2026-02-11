@@ -8,4 +8,12 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="netDxf" Version="2023.11.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\NewFolder\" />
+  </ItemGroup>
+
 </Project>
